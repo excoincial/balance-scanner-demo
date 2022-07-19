@@ -4,6 +4,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![GitHub license](https://badgen.net/github/license/excoincial-blockchain/balance-scanner-demo)](https://github.com/excoincial-blockchain/balance-scanner-demo/blob/master/LICENSE)
 
+[![GitHub watchers](https://img.shields.io/github/watchers/excoincial-blockchain/balance-scanner-demo.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/excoincial-blockchain/balance-scanner-demo/watchers/)
+
 ### Prototyped from Nodejs-ES6-Boilerplate
 [![Made in Indonesia](https://made-in-indonesia.github.io/made-in-indonesia.svg)](https://github.com/made-in-indonesia/made-in-indonesia)
 
