@@ -31,6 +31,8 @@ Object.entries(envNetMapper).forEach((
     console.log('-------------------')
     console.log('Environment',envNet)
     console.log('')
+    console.log('import { getEtherBalances } from \'@mycrypto/eth-scan\';')
+    console.log('')
     console.log('getEtherBalances(\'' + rpcHost + '\', [')
     console.log('  \'' + coinbase + '\'')
     console.log('], {')

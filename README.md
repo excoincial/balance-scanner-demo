@@ -1,10 +1,11 @@
 # Balance Scanner contract Demo on EXL-Mainnet and EXL-Volta
+[![GitHub stars](https://img.shields.io/github/stars/excoincial/balance-scanner-demo.svg?label=Stars&maxAge=2592000)](https://GitHub.com/excoincial-blockchain/balance-scanner-demo/stars/)
 [![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub license](https://badgen.net/github/license/excoincial-blockchain/balance-scanner-demo)](https://github.com/excoincial-blockchain/balance-scanner-demo/blob/master/LICENSE)
+[![GitHub license](https://badgen.net/github/license/excoincial/balance-scanner-demo)](https://github.com/excoincial-blockchain/balance-scanner-demo/blob/master/LICENSE)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/excoincial-blockchain/balance-scanner-demo.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/excoincial-blockchain/balance-scanner-demo/watchers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/excoincial/balance-scanner-demo.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/excoincial-blockchain/balance-scanner-demo/watchers/)
 
 ### Prototyped from Nodejs-ES6-Boilerplate
 [![Made in Indonesia](https://made-in-indonesia.github.io/made-in-indonesia.svg)](https://github.com/made-in-indonesia/made-in-indonesia)
@@ -38,6 +39,8 @@ Balance Scanner on EXL-mainnet and EXL-testnet Volta
 Environment mainnet
 ```
 ``` js
+import { getEtherBalances } from '@mycrypto/eth-scan';
+
 getEtherBalances('https://rpc.exlscan.com', [
   '0x352dcaee65628424e43058d715a2e0399f5da78d'
 ], {
@@ -52,6 +55,8 @@ getEtherBalances('https://rpc.exlscan.com', [
 Environment testnet
 ```
 ``` js
+import { getEtherBalances } from '@mycrypto/eth-scan';
+
 getEtherBalances('https://testnet-rpc.exlscan.com', [
   '0xea17bc1d0750af8fb43b8e9ebe64a3c5090e162e'
 ], {
