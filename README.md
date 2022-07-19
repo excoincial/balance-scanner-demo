@@ -1,5 +1,5 @@
 # Balance Scanner contract Demo on EXL-Mainnet and EXL-Volta
-[![GitHub stars](https://img.shields.io/github/stars/excoincial/balance-scanner-demo.svg?label=Stars&maxAge=2592000)](https://GitHub.com/excoincial-blockchain/balance-scanner-demo/stars/)
+[![GitHub stars](https://img.shields.io/github/stars/excoincial/balance-scanner-demo.svg?label=Stars&maxAge=2592000)](https://GitHub.com/excoincial-blockchain/balance-scanner-demo/stargazers)
 [![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
