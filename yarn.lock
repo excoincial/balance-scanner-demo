@@ -10,7 +10,7 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@babel/cli@^7.5.5":
+"@babel/cli@^7.18.9":
   version "7.18.9"
   resolved "https://registry.yarnpkg.com/@babel/cli/-/cli-7.18.9.tgz#1fbc8424e5f74ae08bc61ec71609af29287d82d2"
   integrity sha512-e7TOtHVrAXBJGNgoROVxqx0mathd01oJGXIDekRfxdrISnRqfM795APwkDtse9GdyPYivjg3iXiko3sF3W7f5Q==
