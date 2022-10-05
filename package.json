@@ -34,7 +34,7 @@
   "homepage": "https://github.com/vferdiansyah/nodejs-es6-boilerplate#readme",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
-    "@babel/core": "^7.19.1",
+    "@babel/core": "^7.19.3",
     "@babel/preset-env": "^7.19.3",
     "eslint": "^8.24.0",
     "eslint-config-prettier": "^8.5.0",
