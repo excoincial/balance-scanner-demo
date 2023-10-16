@@ -38,7 +38,7 @@
     "@babel/preset-env": "^7.22.15",
     "eslint": "^8.49.0",
     "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
     "prettier": "^3.0.3"
   },
   "dependencies": {
