@@ -33,7 +33,7 @@
   "bugs": "https://github.com/vferdiansyah/nodejs-es6-boilerplate/issues",
   "homepage": "https://github.com/vferdiansyah/nodejs-es6-boilerplate#readme",
   "devDependencies": {
-    "@babel/cli": "^7.24.1",
+    "@babel/cli": "^7.24.5",
     "@babel/core": "^7.24.5",
     "@babel/preset-env": "^7.24.4",
     "eslint": "^9.2.0",
